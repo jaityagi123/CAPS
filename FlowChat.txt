@@ -1,0 +1,100 @@
++-------------------------------------+
+|             Start                   |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|          Initialize                |
+|    Speech Recognition & Lists      |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|       Start Infinite Loop          |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|          Listen for Input           |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|      Recognize Speech Input        |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|     Translate Speech to English    |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|       Check for Goodbye             |
+|       or Bye Command                |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|    Check for ISL Gesture            |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|     Display Corresponding ISL       |
+|               GIF                   |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|       Wait for 3 Seconds            |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|     Continue Loop                   |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|      Check for Alphabets            |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|    Display Corresponding Images     |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|        End of Loop                  |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|          Close Display              |
++-------------------------------------+
+            |
+            v
++-------------------------------------+
+|             End                     |
+
+
+
+
+
+
+
+
++-------------------------------------+
+""Dependency Parser and WordNet: Utilized for preprocessing Hindi sentences and converting them into Indian Sign Language (ISL) grammar.
+
+HamNoSys: Used for converting ISL grammar into different corresponding Sign Language symbols.
+
+Natural Language Processing: Enhanced for identifying nouns, pronouns, tense, prepositions, and other parts of speech in ISL to English conversion.
+
+Rule-based Technique: Utilized for converting a textual word sequence into a sequence of signs.
+
+Minipar Parser: Used to parse the input sentence and construct a dependency structure for ISL generation."
+
+
